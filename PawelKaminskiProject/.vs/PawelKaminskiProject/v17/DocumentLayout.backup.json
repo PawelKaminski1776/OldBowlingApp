@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\t00225804\\Downloads\\SD_SEP_Kaminski_Pawel\\SD_SEP_Kaminski_Pawel\\PawelKaminskiProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFEA892-6C7D-4B19-BF94-F359549076B7}|PawelKaminskiProject\\PawelKaminskiProject.csproj|c:\\users\\t00225804\\downloads\\sd_sep_kaminski_pawel\\sd_sep_kaminski_pawel\\pawelkaminskiproject\\pawelkaminskiproject\\frmbookinganalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFEA892-6C7D-4B19-BF94-F359549076B7}|PawelKaminskiProject\\PawelKaminskiProject.csproj|solutionrelative:pawelkaminskiproject\\frmbookinganalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFEA892-6C7D-4B19-BF94-F359549076B7}|PawelKaminskiProject\\PawelKaminskiProject.csproj|c:\\users\\t00225804\\downloads\\sd_sep_kaminski_pawel\\sd_sep_kaminski_pawel\\pawelkaminskiproject\\pawelkaminskiproject\\frmbookinganalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DBFEA892-6C7D-4B19-BF94-F359549076B7}|PawelKaminskiProject\\PawelKaminskiProject.csproj|solutionrelative:pawelkaminskiproject\\frmbookinganalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBFEA892-6C7D-4B19-BF94-F359549076B7}|PawelKaminskiProject\\PawelKaminskiProject.csproj|c:\\users\\t00225804\\downloads\\sd_sep_kaminski_pawel\\sd_sep_kaminski_pawel\\pawelkaminskiproject\\pawelkaminskiproject\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBFEA892-6C7D-4B19-BF94-F359549076B7}|PawelKaminskiProject\\PawelKaminskiProject.csproj|solutionrelative:pawelkaminskiproject\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmBookingAnalysis.cs",
+              "DocumentMoniker": "C:\\Users\\t00225804\\Downloads\\SD_SEP_Kaminski_Pawel\\SD_SEP_Kaminski_Pawel\\PawelKaminskiProject\\PawelKaminskiProject\\frmBookingAnalysis.cs",
+              "RelativeDocumentMoniker": "PawelKaminskiProject\\frmBookingAnalysis.cs",
+              "ToolTip": "C:\\Users\\t00225804\\Downloads\\SD_SEP_Kaminski_Pawel\\SD_SEP_Kaminski_Pawel\\PawelKaminskiProject\\PawelKaminskiProject\\frmBookingAnalysis.cs",
+              "RelativeToolTip": "PawelKaminskiProject\\frmBookingAnalysis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T10:20:45.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\t00225804\\Downloads\\SD_SEP_Kaminski_Pawel\\SD_SEP_Kaminski_Pawel\\PawelKaminskiProject\\PawelKaminskiProject\\Admin.cs",
+              "RelativeDocumentMoniker": "PawelKaminskiProject\\Admin.cs",
+              "ToolTip": "C:\\Users\\t00225804\\Downloads\\SD_SEP_Kaminski_Pawel\\SD_SEP_Kaminski_Pawel\\PawelKaminskiProject\\PawelKaminskiProject\\Admin.cs",
+              "RelativeToolTip": "PawelKaminskiProject\\Admin.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T10:20:30.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmBookingAnalysis.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\t00225804\\Downloads\\SD_SEP_Kaminski_Pawel\\SD_SEP_Kaminski_Pawel\\PawelKaminskiProject\\PawelKaminskiProject\\frmBookingAnalysis.cs",
+              "RelativeDocumentMoniker": "PawelKaminskiProject\\frmBookingAnalysis.cs",
+              "ToolTip": "C:\\Users\\t00225804\\Downloads\\SD_SEP_Kaminski_Pawel\\SD_SEP_Kaminski_Pawel\\PawelKaminskiProject\\PawelKaminskiProject\\frmBookingAnalysis.cs [Design]",
+              "RelativeToolTip": "PawelKaminskiProject\\frmBookingAnalysis.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T10:20:26.422Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
