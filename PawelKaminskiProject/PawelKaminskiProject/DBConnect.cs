@@ -9,7 +9,7 @@ namespace PawelKaminskiProject
     class DBConnect
     {
        public const String oradb =
-            "Data Source = oracle/orcl; User Id = T00225804; Password = k*6n79Lx9vw6;"; 
+            "Data Source = oracle/orcl; User Id =; Password = ; 
 
         /*
        public const String oradb = "Data Source = localhost/orcl; User Id = C##USER1; Password = pawel;"; 
